@@ -154,7 +154,8 @@ It means we want to create actual executables using Makefile that we now have
 
 Run `Cmake: Build Target` in Comand Pallete
 
-![alt text](image.png)
+<img width="1188" height="264" alt="image" src="https://github.com/user-attachments/assets/5de4ebf0-586f-4432-a8b9-ee4f75e6f512" />
+
 
 You can see that we can choose a specific executable to build or build all executables
 
@@ -166,7 +167,7 @@ For example, you can run `out/build/test/another` to run our code from `anotherp
 
 To run a project, just use `CMake: Run Without Debugging`
 
-![alt text](image-1.png)
+<img width="956" height="92" alt="image" src="https://github.com/user-attachments/assets/5a8adfed-c934-457e-a24d-2b5255eea9eb" />
 
 It will prompt you an executable to run. 
 
@@ -176,7 +177,7 @@ You can also set a shortcut for `CMake: Run Without Debugging`
 
 (just click on the gear button next to it)
 
-![alt text](image-2.png)
+<img width="1164" height="44" alt="image" src="https://github.com/user-attachments/assets/cfd3a5aa-b216-4adb-9f90-efd2fe6dc177" />
 
 ## Debug our project 
 
@@ -232,7 +233,7 @@ Okay, Now open a VSCode Debugger View on the left panel (or use `cmd + shift + D
 
 Choose our debugging configuration
 
-![alt text](image-3.png)
+<img width="944" height="578" alt="image" src="https://github.com/user-attachments/assets/25660495-8b9a-4d4f-9226-3941267fb4fa" />
 
 And then press the green play button. 
 
@@ -242,7 +243,7 @@ Hopefully it works!
 
 Every time you open a .cpp file in VSCode, you might see something like this:
 
-![alt text](image-4.png)
+<img width="1780" height="698" alt="image" src="https://github.com/user-attachments/assets/80d7cd2c-c6c4-4512-9f27-da5c473ad807" />
 
 There's a play button with 3 or 2 options (I have three)
 
@@ -306,7 +307,7 @@ So we actually don't any of these options
 
 ## This is how the project looks by the end of the guide
 
-![alt text](image-5.png)
+<img width="598" height="440" alt="image" src="https://github.com/user-attachments/assets/9dc6dddf-8522-4404-86c8-4193da5aa3e5" />
 
 
 

@@ -309,5 +309,7 @@ So we actually don't any of these options
 
 <img width="598" height="440" alt="image" src="https://github.com/user-attachments/assets/9dc6dddf-8522-4404-86c8-4193da5aa3e5" />
 
+It's okay if you don't have `settings.json`
 
+Those are the workspace specific settings in VSCode that are not neccessary
 
